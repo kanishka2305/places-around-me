@@ -18,6 +18,7 @@ Run the Django server and execute the HTML files.
 
 
 ## Code:
+```
 map.html
 <!DOCTYPE html>
 <html lang="en">
@@ -200,7 +201,7 @@ temple in Kanchipuram after the Kailasanthar temple.
 </p>
 </body>
 </html>
-
+```
 ## Output:
 ![output](/output.png)
 ![output](./output.1.png)
