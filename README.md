@@ -203,10 +203,10 @@ temple in Kanchipuram after the Kailasanthar temple.
 
 ## Output:
 ![output](/output.png)
-![output](/output.1.png)
-![output](/output.2.png)
-![output](/output.3.png)
-![output](/output.4.png)
-![output](/output.5.png)
+![output](./output.1.png)
+![output](./output.2.png)
+![output](./output.3.png)
+![output](./output.4.png)
+![output](./output.5.png)
 ## Result:
 The program for implementing image map is executed successfully
